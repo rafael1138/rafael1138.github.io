@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca de Mi
+permalink: /acerca/
 ---
 
 <html><body>
