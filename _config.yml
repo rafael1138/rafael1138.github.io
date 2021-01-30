@@ -58,7 +58,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://rafael1138.github.io"
+url: "https://github.com/rafael1138.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
