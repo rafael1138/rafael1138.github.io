@@ -7,7 +7,7 @@ permalink: /about/
 <html><body>
   <img src="https://i.imgur.com/e8z3XdH.jpg" alt="Take that pointy thing out of my face! MTF!" height="200" width="200"><h1># rafaelMARTINEZ</h1>
 
-<p>Hi, my name is rafael Martinez (aka rafael1138) and this is my presentation to the spider's web. (<a href="https://github.com/rafael1138/rafael1138.github.io/blob/master/LEEME.md">español aquí</a>)</p>
+<p>Hi, my name is rafael Martinez (aka rafael1138) and this is my presentation to the spider's web. (<a href="https://rafael1138.github.io/acerca/">español aquí</a>)</p>
 
 <p>In my offline life, with studies in law, I dedicate a lot of time trying to understand the social activity in Venezuela and part of Latin America, as well to it internal legal system, to figure it out how to improvee the regulations for ecommerce, digital rights and automatization of the public administration.</p>
 
