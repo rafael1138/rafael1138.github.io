@@ -77,7 +77,7 @@ compress_html:
 
 
 # Build settings
-remote_theme: rafael1138/agusmakmun
+theme: rafael1138/agusmakmun
 plugins:
   - jekyll-feed
 
