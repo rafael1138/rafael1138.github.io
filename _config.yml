@@ -35,8 +35,8 @@ urls:
       url: /about/
     - text: Acerca de Mi
       url: /acerca/  
-    - text: My Projects
-      url: /projects/
+ #   - text: My Projects
+ #     url: /projects/
     - text: XML Feed
       url: /feed.xml
     
