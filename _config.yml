@@ -33,13 +33,11 @@ share:
 urls:
     - text: About Me
       url: /about/
-      text: Acerda de Mi
-      url: /acerca/
+    - text: Acerca de Mi
+      url: /acerca/  
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
-
+        
 url: "https://rafael1138.github.io"
 baseurl: ""
 paginate: 20
