@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <html><body>
-  <img src="https://twitter.com/rafaelmmv/photo" alt="Take that pointy thing out of my face! MTF!" height="200" width="200"><h1># rafaelMARTINEZ</h1>
+  <img src="https://i.imgur.com/e8z3XdH.jpg" alt="Take that pointy thing out of my face! MTF!" height="200" width="200"><h1># rafaelMARTINEZ</h1>
 
 <p>Hi, my name is rafael Martinez (aka rafael1138) and this is my presentation to the spider's web. (<a href="https://github.com/rafael1138/rafael1138.github.io/blob/master/LEEME.md">español aquí</a>)</p>
 
