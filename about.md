@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+ abogado veneco/gringo especialista en derecho internacional, informatico y bancario. analista
+de impuestos internacionales. coleccionista de star wars. horrendo escritor de cuentos, articulos
+de opinion y papeles academicos.
 
-email: agus[at]python.web.id
+email: rafael1138[at]protonmail.com
