@@ -1,11 +1,10 @@
 title: Rafael1138.::|
 description: cuentos, articulos y plastico
-abogado veneco/gringo especialista en derecho internacional, informatico y bancario. analista
+author: rafael Martinez
+github: https://github.com/rafael1138
+about: abogado veneco/gringo especialista en derecho internacional, informatico y bancario. analista
 de impuestos internacionales. coleccionista de star wars. horrendo escritor de cuentos, articulos
 de opinion y papeles academicos.
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -30,7 +29,7 @@ social:
       link: "https://github.com/agusmakmun"
 
 share:
-  twitter_username: github.io
+  twitter_username: rafaelmmv
   fb_appid: 1749788565247320
 
 urls:
