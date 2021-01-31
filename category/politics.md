@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: politic
+categories: politics
 title: Politics-Política
 permalink: /category/politics
 ---
