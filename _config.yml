@@ -38,7 +38,7 @@ urls:
  #   - text: My Projects
  #     url: /projects/
     - text: Categorías
-      url: /category/academics/
+      url: /category/academics.md/
     - text: XML Feed
       url: /feed.xml
     
