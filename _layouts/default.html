@@ -26,6 +26,7 @@ layout: compress
     {% else %}
       <meta content="{{ site.title }}" property="og:title">
       <meta content="website" property="og:type">
+      <img src="https://i.imgur.com/e8z3XdH.jpg" alt="rafael1138" width="200" height="80">
     {% endif %}
 
     {% if page.description %}
@@ -34,9 +35,7 @@ layout: compress
       <meta content="{{ site.description }}" property="og:description">
     {% endif %}
 
-    <img src="https://i.imgur.com/e8z3XdH.jpg" alt="rafael1138" width="200" height="80">
-
-    {% if page.url %}
+        {% if page.url %}
       <meta content="{{ site.url }}{{ page.url }}" property="og:url">
     {% endif %}
 
