@@ -37,7 +37,7 @@ urls:
       url: /acerca/  
  #   - text: My Projects
  #     url: /projects/
-    - text: Categorías
+    - text: Categories
       url: https://rafael1138.github.io/category/academics
     - text: XML Feed
       url: /feed.xml
