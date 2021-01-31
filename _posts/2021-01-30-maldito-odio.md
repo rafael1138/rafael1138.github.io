@@ -2,7 +2,7 @@
 layout: post
 title:  "Maldito Odio!"
 date:   2021-01-30 11:38:00 -0500
-categories: [cuento, venezuela]
+categories: [stories, venezuela]
 ---
 
 Como odio a este maldito pais.

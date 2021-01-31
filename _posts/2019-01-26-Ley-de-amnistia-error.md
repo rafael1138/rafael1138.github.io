@@ -2,7 +2,7 @@
 layout: post
 title:  "Ley de Amnistía: Breve Análisis de un Error Legislativo Venezolano."
 date:   2019-01-26 11:38:00 -0500
-categories: [academic, venezuela, politics]
+categories: [academics, venezuela, politics]
 ---
 
 ![Image for post](https://miro.medium.com/max/512/1*Yhc3dK8XahJoowFWz_ONBA.jpeg)
