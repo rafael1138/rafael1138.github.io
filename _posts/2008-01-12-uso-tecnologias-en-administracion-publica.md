@@ -2,7 +2,7 @@
 layout: post
 title:  "El uso de las nuevas tecnologías en la Administración Pública."
 date:   2008-01-12 11:38:00 -0500
-categories: [cuento, venezuela]
+categories: [academic, venezuela]
 ---
 
 ![Image for post](https://miro.medium.com/max/1024/1*Q3AFR60xwx78HKhcgJ5RAA.jpeg)
