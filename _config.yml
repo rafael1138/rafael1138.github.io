@@ -1,8 +1,8 @@
 title: rafael1138L cuentos, articulos y plastico
 description: cuentos, articulos y plastico
-author: rafael martinez
+author: rafael1138
 github: https://github.com/rafael1138
-about: abogado veneco/gringo, especialista en derecho internacional, informatico y bancario. analista de impuestos internacionales. coleccionista de star wars. horrendo escritor de cuentos, articulos de opinion y papeles academicos.
+about: rafael Martinez, abogado veneco/gringo, especialista en derecho internacional, informático y bancario. analista de impuestos internacionales. coleccionista de star wars. horrendo escritor de cuentos, artículos de opinión y papeles académicos.
 disqus_shortname: 
 google_analytics: 
 
@@ -37,7 +37,7 @@ urls:
       url: /acerca/  
  #   - text: My Projects
  #     url: /projects/
-    - text: Categories
+    - text: Categories-Categorías
       url: https://rafael1138.github.io/category/academics
     - text: XML Feed
       url: /feed.xml
