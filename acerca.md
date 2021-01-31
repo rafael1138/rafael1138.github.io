@@ -5,9 +5,7 @@ permalink: /acerca/
 ---
 
 <html><body>
-  <img src="https://i.imgur.com/e8z3XdH.jpg" alt="Take that pointy thing out of my face! MTF!" height="200" width="200"><h1># rafaelMARTINEZ</h1>
-
-<p>Hola, mi nombre es rafael Martinez (aka rafael1138) y esta es mi presentación para esta telaraña virtual. (<a href="http://rafael1138.github.io\about\">english here</a>)</p>
+ Hola, mi nombre es rafael Martinez (aka rafael1138) y esta es mi presentación para esta telaraña virtual. (<a href="http://rafael1138.github.io\about\">english here</a>)
 
 <p>En mi vida offline, he realizado estudios en Derecho y dedico la mayor parte de mi tiempo en entender la actividad social en Venezuela y partes de Latinoamérica, así como a su ordenamiento jurídico interno, para tratar de mejorar todo lo referente al ecommerce, los derechos digitales y la automatización de la función pública.
 </p>
