@@ -8,10 +8,11 @@ layout: default
   <ol class="posts">
     {% for post in paginator.posts %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
+    </br><img src="https://imgur.com/knfm81f.gif">
+  </P>nos vemos en el futuro!!!!!!!
     {% endfor %}
   </ol>
-</br><img src="https://imgur.com/knfm81f.gif">
-</P>nos vemos en el futuro!!!!!!!
+
   <!-- Pagination links -->
   {% if paginator.total_pages > 1 %}
     <ul class="pagination pagination-sm">
