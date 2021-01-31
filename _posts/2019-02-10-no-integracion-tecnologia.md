@@ -2,7 +2,7 @@
 layout: post
 title:  "Sobre cómo la no integración de las nuevas tecnologías al ámbito político afectan la planificación y ejecución de acciones sociales: Caso Ayuda Humanitaria Crisis Venezuela 2019."
 date:   2019-02-10 11:38:00 -0500
-categories: [academics, venezuela]
+categories: [academics, venezuela, politics]
 ---
 
 > La necesidad del uso de la tecnología para ejecutar el Plan de Ayuda Humanitaria.
