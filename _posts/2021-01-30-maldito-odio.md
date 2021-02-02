@@ -2,7 +2,7 @@
 layout: post
 title:  "Como odio a ese maldito país"
 date:   2021-01-30 11:38:00 -0500
-categories: [stories, venezuela]
+categories: [stories]
 ---
 
 Como odio a ese maldito país.
