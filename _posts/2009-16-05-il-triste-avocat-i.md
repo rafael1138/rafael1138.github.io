@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il Triste Avocat (i)"
+title:  "Il Triste Avocat"
 date:   2009-16-05 11:38:00 -0500
 categories: [stories]
 ---
