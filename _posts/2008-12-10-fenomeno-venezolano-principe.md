@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "El Fenómeno Venezolano de El Príncipe"
+date:   2008-12-10 11:38:00 -0500
+categories: [politics, venezuela]
+---
+
+En días pasados, con motivo a las elecciones regionales, pude recordar una recomendación que Nicolás Maquiavelo en su obra El Príncipe, hace a Lorenzo II de Medici en el capítulo titulado “De los motivos por los que el reino de Darío conquistado por Alejandro no se rebeló contra los sucesores tras su muerte”.
+
+Maquiavelo muy acertadamente explica que hay dos formas de gobernar un principado, la primera consiste en un Príncipe asistido por terceros leales, humildes y complacientes, los cuales obtienen gracia del Príncipe únicamente como colaboradores; y el segundo modo es gobernar asistido por Barones, que deben su puesto en el Estado a la antigüedad de sus familias y no al Príncipe en sí. Estos Barones poseen territorios y por ende gobiernos, donde sus habitantes lo reconocen como suyo y le dedican naturalmente su afecto, siendo esto sumamente peligroso, pues con ese afecto podrían sentirse en legítimo derecho de reclamar el principado e incluso ir en armas contra él. Es por lo antes señalado, que concluye Maquiavelo, que es más fácil y seguro gobernar bajo el primer modo, pues nadie en provincia, reconocerá autoridad alguna sobre la del Príncipe y quien fuere designado para ejercer una autoridad regional solo se le obedecerá no por amor o aprecio, sino por quien ahí lo ha puesto.
+
+Como dato curioso, Napoleón comenta esto con la siguiente frase: “¡Famoso!, haré todo para lograrlo”.
+
+No sé porque se me hace muy similar este panorama propuesto por Maquiavelo al Principado de los Medici del 1513 con la Venezuela Socialista del siglo XXI, ya que si buscamos un verdadero liderazgo en las autoridades regionales que han sido electas por haber recibido el apoyo del llamado oficialismo, veremos sin lugar a dudas un político cuya única virtud es la de haber recibido la gracia, no la divina pues esa es cosa de Dios, sino más bien la de alguien más grande que él, quien decide que hacer y cómo hacerlo o como dijo Claudio Nazoa, quien decide no solo que debe arrastrarse sino como arrastrarse. Basta que el Príncipe retire dicha gracia otorgada para que el ciudadano automáticamente desconozca todos los logros individuales, los méritos y otras virtudes, por las que votaron, y comiencen a detestarlo e insultarlo hasta desterrarlo, para ello solo bastaría preguntarle al Héroe Baduel, al Pensador Miquilena, al Jurista Escarra o al Generalísimo Carles.
+
+¿Pero cree usted que hoy en día alguien se atrevería a ir contra el Príncipe? ¿Algún Bufón de la Corte sería lo suficientemente atrevido para violar la gracia recibida? Ya hemos escuchado hablar dentro de las filas del oficialismo de una Derecha Endógena o un Chavismo sin Chavez (lo cual nunca me ha cuadrado muy bien, pues para mí sería igual a decir una limonada sin limones), presuntamente liderizado por duques cuyas recientes perdidas electorales no han entristecido para nada al Príncipe.
+
+¿Sera lo antes expuesto la razón por la que no hemos tenido gobiernos regionales eficaces en estos últimos 10 años?, aparentemente si. Nadie quiere sobresalir y opacar al Príncipe, como en su oportunidad lo hizo un gobernador construyendo más casas en nueve meses que el gobierno central en seis años o el caso de Barquisimeto, donde el Alcalde oficialista por realizar una gestión decente casi pierde el apoyo del PSUV.
+
+Sé que no es culpa de ustedes, los súbditos del Príncipe, sino de los Gobiernos pasados que no han permitido que el Venezolano madure como ciudadano, pues nos acostumbraron a que el Estado asumiera la obligación de darnos casa, educación, ropa, comida, y un sin número de cosas, que nos han hecho creer que un Príncipe, o Presidente como se le dice por acá, es la solución de todos los problemas, restándole así importancia a las autoridades, que en los países desarrollados suelen ser las más importantes, las autoridades regionales.
+
+Podría afirmar con certeza que con solo atender las necesidades básicas de la población, como lo son la seguridad, la vialidad, y el aseo de una ciudad, cualquier gobernante regional, sin importar su orientación política, ganaría la gracia y aprecio de los ciudadanos, quedando ahí verdaderamente liberado de cualquier compromiso o sometimiento alguno hacia el Príncipe, lo cual es sumamente importante, pues les recuerdo a nuestros gobernantes lo que una vez dijo Wiston Leonard Churchill: “La política es más peligrosa que la guerra, porque en la guerra sólo se muere una vez.”
