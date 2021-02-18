@@ -5,7 +5,7 @@ date:   2021-01-30 11:38:00 -0500
 categories: [stories]
 ---
 
-![]([t7KeYh0.png (620×539) (imgur.com)](https://i.imgur.com/t7KeYh0.png))
+![[t7KeYh0.png (620×539) (imgur.com)](https://i.imgur.com/t7KeYh0.png)]([t7KeYh0.png (620×539) (imgur.com)](https://i.imgur.com/t7KeYh0.png))
 
 Como odio a ese maldito país.
 
