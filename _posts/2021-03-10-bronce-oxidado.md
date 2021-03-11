@@ -5,8 +5,6 @@ date:   2021-03-10 11:38:00 -0500
 categories: [stories]
 ---
 
-Bronce Oxidado.
-
 —¿Celina que tienes hoy ahí? —me dijo con esa cara grasosa de lambucio.
 —¡Para ustedes nada!
 —¿Te vas a poner así conmigo bonita? —respondió mientras se secaba la frente con una toalla manchada.
