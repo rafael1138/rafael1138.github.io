@@ -125,4 +125,4 @@ Lafieri había dejado la hornilla encendida, con el poco aire que me quedaba sop
 
 Ya me siento laxa, estoy flotando y mi muñequita también. Ya sonríe y me dice: ¡mira mami, estoy volando!. Si mi amor —le digo— mira hacia arriba, hacia allá vamos. —Nos vamos yendo y pasando el techo de la casa doy una ultima mirada de lo que dejamos, nuestros dos cuerpos tirados en el sofá. Dos cuerpos que antes eran dorados, pero que ahora no son mas que bronce oxidado.
 
-<img src="https://i.imgur.com/rwSJIo9.png" alt="[rwSJIo9.png (924×1280) (imgur.com)](https://i.imgur.com/rwSJIo9.png)" style="zoom:50%;" />
+<center><img src="https://i.imgur.com/rwSJIo9.png" alt="[rwSJIo9.png (924×1280) (imgur.com)](https://i.imgur.com/rwSJIo9.png)" style="zoom:35%;" /></center>
