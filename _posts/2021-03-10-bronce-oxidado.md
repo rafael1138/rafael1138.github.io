@@ -43,7 +43,7 @@ Esto es todos los días, empanadas y jugos gratis a estos maleantes. No tengo ni
 —¡Hola perrita!
 —Hola Carmen, ¿que cuentas?
 —¿Que cuentas?, no te hagas la loca que te vi zorreando con el policía bello, ¿ya se la diste?
-—Hay Carmen no seas ordinaria, estábamos hablando no mas.
+—ay Carmen no seas ordinaria, estábamos hablando no mas.
 —Bueno o te lo coges tu o me lo cojo yo, pero apúrate que me hace así… achi…
 —Bicha ordinaria… jajajajajaja. Y que cuentas, ¿alguna película nueva?
 —Que va, todo ahora lo quieren es quemar en blurei y como aquí lo que se vende en dibidi lo que me llega es pura vaina vieja.
@@ -80,7 +80,7 @@ Siento que tocan la cerradura de la puerta, no va abrir, tiene candado. Una voz:
 
 —¿Lafieri? ¿Que carajo haces aquí? Me mataste del susto.
 —Mija, si yo iba a la casa después de mi turno y de repente empecé a escuchar los gritos. ¿Están bien?
-—Si, ya te abro.
+—Sí, ya te abro.
 
 Al quitar el candado y abrir la puerta vi sus ojos, sus lindos ojos llenos de estrellas, la calma y seguridad se apoderaron de mi mientras que el miedo y la desesperación abandonaban el cuerpo en forma de lagrimas:
 
@@ -103,11 +103,11 @@ Estamos los dos en la cama. Sus caricias me hacen flotar y sus besos me hacen su
 
 Veo y escucho la sombra. No es una, son varias. Las escucho rodear la casa, las escucho reír. Mis ojos quieren irse, trato de mantenerlos en la tierra pero me cuesta. Logro por un segundo abrirlos, ahí están, los ojos de Lafieri, pero ya no son el cielo oscuro lleno de estrellas, son una fosa llena de brasas. ¡La cerveza!, pienso mientras los ojos deciden largarse. Las sombras están en la puerta.
 
-La gravedad ya no es un guardián, logro vencerla y comienzo el ascenso. Los ojos vuelven a abrirse y me veo. Estoy nariz con nariz conmigo misma. Sigo ascendiendo y ahora veo la espalda de Lafieri, esta sobre mi.
+La gravedad ya no es un guardián, logro vencerla y comienzo el ascenso. Los ojos vuelven a abrirse y me veo. Estoy nariz con nariz conmigo misma. Sigo ascendiendo y ahora veo la espalda de Lafieri, está sobre mi.
 
 Ya a la altura del techo del cuarto veo como se levanta y me cubre con las sabanas. Escucho a las sombras en la puerta, él también. Camina hacia la entrada y yo desde mi habitación veo las sombras entrar en mi casa: Pérez, Pino y Garcia. No tienen uniformes, están vestidos de sombras.
 
-Sigo ascendiendo y puedo ver mi casa, pero puedo ver a través del techo. Veo a las sombras caminando… riendo… quitándose la ropa. ¡Dios no! ¡Mi muñequita!
+Sigo ascendiendo y puedo ver mi casa, pero puedo ver a través del techo. Veo a las sombras caminando… riendo… quitándose la ropa, van al otro cuarto. ¡Dios no! ¡Mi muñequita!
 
 Sigo hacia arriba, veo la cuadra, veo la casa de Carmen, veo como se apaga de nuevo la luz del porche.
 
@@ -123,8 +123,8 @@ Me levanto de un salto y camino hacia la cocina y ahí esta Lafieri, preparando 
 
 A todas estas no he llorado. Entro a la casa y sentada en la mesa, no la había visto en todo este rato, mi muñequita bella. Sentada, callada, sin expresión alguna. Ya mi muñequita no era dorada, tenia manchas en todo su cuerpo como de color verdoso. La cubrí con un mantel que tenia en la cocina y le dije: —Acuéstate ahí en el sofá, mama ya va para allá.
 
-Lafieri había dejado la hornilla encendida, con el poco aire que me quedaba sople dos veces y logre apagarla, cerré las ventanas y me acosté también en el sofá. —Cierra los ojos mi muñequita, vamos a flotar. Vamos a flotar de este infierno pero eso si, tienes que tener cuidado con la luna, la condenada es mas dura que una piedra y si no te fijas te vas a dar un coscorronazo. —Ella seguía sin ninguna expresión, callada, mirando fijamente dentro de si. Poco a poco fue cerrando sus ojos y los míos empezaron también a ceder.
+Lafieri había dejado la hornilla encendida, con el poco aire que me quedaba sople dos veces y logre apagarla, cerré las ventanas y me acosté también en el sofá. —Cierra los ojos mi muñequita, vamos a flotar. Vamos a flotar de este infierno pero eso si, tienes que tener cuidado con la luna, la condenada es mas dura que una piedra y si no te fijas te vas a dar un coscorronazo. —Ella seguía sin ninguna expresión, callada, mirando fijamente dentro de si. Poco a poco fue cerrando sus ojos y los míos empezaron también a ceder. La bombona la cambie ayer.
 
-Ya me siento laxa, estoy flotando y mi muñequita también. Ya sonríe y me dice: ¡mira mami, estoy volando!. Si mi amor —le digo— mira hacia arriba, hacia allá vamos. —Nos vamos yendo y pasando el techo de la casa doy una ultima mirada de lo que dejamos, nuestros dos cuerpos tirados en el sofá. Dos cuerpos que antes eran dorados, pero que ahora no son mas que bronce oxidado.
+Ya me siento laxa, me siento Moirè, estoy flotando y mi muñequita también. Ya sonríe y me dice: ¡mira mami, estoy volando!. Sí mi amor —le digo— mira hacia arriba, hacia allá vamos. —Nos vamos yendo y pasando el techo de la casa doy una ultima mirada de lo que dejamos, nuestros dos cuerpos tirados en el sofá. Dos cuerpos que antes eran dorados, pero que ahora no son mas que bronce oxidado.
 
 <center><img src="https://i.imgur.com/rwSJIo9.png" alt="[rwSJIo9.png (924×1280) (imgur.com)](https://i.imgur.com/rwSJIo9.png)" style="zoom:45%;" /></center>
