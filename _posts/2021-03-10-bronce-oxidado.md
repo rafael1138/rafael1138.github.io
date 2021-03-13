@@ -17,16 +17,16 @@ Los muchachos son tres policías también: El lambucio mayor, el Teniente, se ll
 
 —Gracias mi teniente, pero yo estoy bien, desayune tarde.
 
-De los 4 Lafieri siempre me ha parecido el mas decente. Ojos azules, tal vez abuelos italianos, ¿quien sabe?, siempre con una sonrisa, siempre amable y nunca lambucio como los otros.
+De los 4 Lafieri siempre me ha parecido el mas decente. Ojos azules, tal vez abuelos italianos, ¿quién sabe?, siempre con una sonrisa, siempre amable y nunca lambucio como los otros.
 
 —Verga, Lafieri muchacho pajuo, agarra que es una donación para el comando. ¿Verdad negrita bella?.
 —Me llamo Margarita y no soy negrita! —exclamo indignada. Mi orgullo, mi razón, mi linda Margarita, mi muñequita dorada.
 
-Esto es todos los días, empanadas y jugos gratis a estos maleantes. No tengo ni idea porque necesitamos autoridad en este pueblo. Tenemos una sola calle, la carretera nacional. No somos mas de 60 personas y estoy segurita que los mas delincuentes son estos: menos Lafieri, él es diferente. Hace una semana estaba en mi silla vendiendo empanadas con mi muñequita y empezó a caer ese palo de agua, malanga sea!, que palo de agua. Lafieri vino corriendo con un paraguas para nosotras. Cuando el día del niño le regalo a mi muñequita una muñeca y siempre tiene detalles con ella. Que falta le hace una figura paterna. Siempre pregunta, pero no me atrevo a decirle. —Simplemente no tienes papá muñequita.
+Esto es todos los días, empanadas y jugos gratis a estos maleantes. No tengo ni idea porque necesitamos autoridad en este pueblo. Tenemos una sola calle, la carretera nacional. No somos mas de 60 personas y estoy segurita que los más delincuentes son estos: menos Lafieri, él es diferente. Hace una semana estaba en mi silla vendiendo empanadas con mi muñequita y empezó a caer ese palo de agua, malanga sea!, que palo de agua. Lafieri vino corriendo con un paraguas para nosotras. Cuando el día del niño le regalo a mi muñequita una muñeca y siempre tiene detalles con ella. Que falta le hace una figura paterna. Siempre pregunta, pero no me atrevo a decirle. —Simplemente no tienes papá muñequita.
 
-—¿Como estas hoy Celina?
+—¿Cómo estas hoy Celina?
 —Hola Lafieri, bien vale, luchando por la locha. ¿Y tu?
-—Bien, haciendo lo que se puede. Y tu chiquita, ¿como estas? —pregunto mientras le pellizcaba un cachete— hoy estas mas linda que de costumbre.
+—Bien, haciendo lo que se puede. Y tu chiquita, ¿cómo estas? —preguntó mientras le pellizcaba un cachete— hoy estas más linda que de costumbre.
 — Bien, gracias —respondió mi muñequita como con pena, pero sonriendo.
 —Muñequita hágame un favor, vaya al kiosco de Perucho y pregúntele si para hoy va querer desayuno —salió corriendo (ahora si puedo echarle los perros a este catire).
 —Lafieri nunca te veo por ahí en la noche, ni siquiera en la pollera. ¿Tu no sales?
@@ -41,12 +41,12 @@ Esto es todos los días, empanadas y jugos gratis a estos maleantes. No tengo ni
 <center>*</center>
 
 —¡Hola perrita!
-—Hola Carmen, ¿que cuentas?
-—¿Que cuentas?, no te hagas la loca que te vi zorreando con el policía bello, ¿ya se la diste?
+—Hola Carmen, ¿qué cuentas?
+—¿Qué cuentas?, no te hagas la loca que te vi zorreando con el policía bello, ¿ya se la diste?
 —ay Carmen no seas ordinaria, estábamos hablando no mas.
-—Bueno o te lo coges tu o me lo cojo yo, pero apúrate que me hace así… achi…
-—Bicha ordinaria… jajajajajaja. Y que cuentas, ¿alguna película nueva?
-—Que va, todo ahora lo quieren es quemar en blurei y como aquí lo que se vende en dibidi lo que me llega es pura vaina vieja.
+—Bueno o te lo coges tu o me lo cojo yo, pero apúrate que me hace así… achí…
+—Bicha ordinaria… jajajajajaja. Y qué cuentas, ¿alguna película nueva?
+—Que va, todo ahora lo quieren es quemar en blurei y como aquí lo que vendo es dibidi todo es pura vaina vieja.
 —Bueno mija, pero es lo único que se puede ver, películas, gandolas y tierra…
 —y ojitos azules mi amor, no te olvides de eso. Que ganas tengo de ver esos ojitos mientras me la come. —Ambas volteamos a ver a ojitos azules. Estaba bajando su comisión de la gandola que habían parado.
 
@@ -54,7 +54,7 @@ Esto es todos los días, empanadas y jugos gratis a estos maleantes. No tengo ni
 <Center>***</Center>
 <center>*</center>
 
-Nuestra vida es sencilla, humilde pero sencilla. Trabajar desde las 4 de la mañana, encendiendo el caldero, amasando, despertando a mi muñeca, para trabajar, aquí no hay escuelita y esta muy pequeña para la publica. Tiene 4 años.
+Nuestra vida es sencilla, humilde pero sencilla. Trabajar desde las 4 de la mañana, encendiendo el caldero, amasando, despertando a mi muñequita, para trabajar, aquí no hay escuelita y esta muy pequeña para la publica. Tiene 4 años.
 
 Las mañanas se van a la orilla de la carretera, alimentando lambucios, atendiendo clientes, hablando con Carmen, viendo a Lafieri. Las tardes se van en el mercado, en limpiar la cocina, ver alguna novela y enseñarle a Margarita las letras y los números. Las noches empiezan y terminan temprano para nosotras, por lo general a las 8 ya estamos listas para dormir.
 
@@ -64,7 +64,7 @@ Nuestra casita es pequeña pero solida. Techo de zinc, paredes de bloque, un ba�
 <Center>***</Center>
 <center>*</center>
 
-Esta tranquila la noche, mi muñeca ya esta dormida, son las 8:00. El cielo se ve lindo, las estrellas, el fondo oscuro, los ojos de Lafieri. Apago la luz, me toco, pienso en él, me toco de nuevo: sueño.
+Esta tranquila la noche, mi muñequita ya está dormida, son las 8:00. El cielo se ve lindo, las estrellas, el fondo oscuro, los ojos de Lafieri. Apago la luz, me toco, pienso en él, me toco de nuevo: sueño.
 
 <center>*****</center>
 <Center>***</Center>
@@ -72,24 +72,24 @@ Esta tranquila la noche, mi muñeca ya esta dormida, son las 8:00. El cielo se v
 
 ¿Qué fue ese ruido? ¿lo soñé? ¡NO! ¡Es afuera!
 
-Corro, salgo del cuarto, reviso a mi muñequita, esta bien, sigue dormida y la ventana cerrada. Corro a la sala, mantengo las luces apagadas. me asomo por la ventana de la puerta, no veo nada. ¿Que es eso?, pasó corriendo, es una sombra: ¡CARMEN! —grito— ¡AYUDA, ALGUIEN ESTA AQUI! —Veo su casa, se que esta ahí, la luz del porche se apaga: no se asoma, no contesta.
+Corro, salgo del cuarto, reviso a mi muñequita, está bien, sigue dormida y la ventana cerrada. Corro a la sala, mantengo las luces apagadas. me asomo por la ventana de la puerta, no veo nada. ¿Qué es eso?, pasó corriendo, es una sombra: ¡CARMEN! —grito— ¡AYUDA, ALGUIEN ESTA AQUI! —Veo su casa, se que esta ahí, la luz del porche se apaga: no se asoma, no contesta.
 
 Un ruido afuera, alguien abrió la puerta del jardín, grito y miento: —¿QUIEN ESTA AHI? ¡ESTOY ARMADA!
 
-Siento que tocan la cerradura de la puerta, no va abrir, tiene candado. Una voz: —Celina, ¿estas bien?, soy yo Lafieri.
+Siento que tocan la cerradura de la puerta, no va abrir, tiene candado. Una voz: —Celina, ¿estás bien?, soy yo Lafieri.
 
-—¿Lafieri? ¿Que carajo haces aquí? Me mataste del susto.
+—¿Lafieri? ¿Qué carajo haces aquí? Me mataste del susto.
 —Mija, si yo iba a la casa después de mi turno y de repente empecé a escuchar los gritos. ¿Están bien?
 —Sí, ya te abro.
 
 Al quitar el candado y abrir la puerta vi sus ojos, sus lindos ojos llenos de estrellas, la calma y seguridad se apoderaron de mi mientras que el miedo y la desesperación abandonaban el cuerpo en forma de lagrimas:
 
 —Gracias a Dios estabas aquí. Estaba aterrada, había alguien ahí afuera.
-—¿Que dices? Vengo de afuera y no vi a nadie en el patio ni cerca en la calle.
+—¿Qué dices? Vengo de afuera y no vi a nadie en el patio ni cerca en la calle.
 —Te digo que vi alguien corriendo en el patio, se veía como una sombra.
 —Que va, creo que los sentidos te han engañado. ¿Comiste?  Mira, tengo aquí cena y unas cervezas, vamos a sentarnos, trae dos vasos.
 
-Le lleve los vasos y tome un pollo asado que traía para calentarlo. Es curioso, desde mi ventana veo la casa de Carmen, acaba de encender la luz del porche, esta en la ventana.
+Le lleve los vasos y tome un pollo asado que traía para calentarlo. Es curioso, desde mi ventana veo la casa de Carmen, acaba de encender la luz del porche, está en la ventana.
 
 Bebimos cerveza, el las servía, yo reía y contaba chistes, el reía también. La casa se puso oscura, como el cielo y ahí las vi, las estrellas, sus estrellas, sus ojos. Fuimos al cuarto.
 
